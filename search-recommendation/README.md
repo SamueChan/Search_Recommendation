@@ -16,3 +16,4 @@
 	
 模型训练：train_prediction.py
 
+文件路径：SETTINGS.json

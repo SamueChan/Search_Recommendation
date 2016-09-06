@@ -1,0 +1,8 @@
+{
+  "model_path":"./model/traind_model.pickle",
+  "submission_path":"./submission/output.csv",
+  "train_path":"./data/train.csv",
+  "test_path":"./data/test.csv",
+  "proc_train_path":"./proc_train_samples",
+  "proc_test_samples_path":"./proc_test_samples.csv"
+}
